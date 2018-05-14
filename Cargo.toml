@@ -3,7 +3,7 @@ name = "boxing-day"
 description = "Unwrap a Box in festive fashion, only on boxing day!"
 version = "0.1.0"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
-keywords = ["boxing day", "christmas", "Box", "unwrap"]
+keywords = ["boxing-day", "christmas", "Box", "unwrap"]
 
 [dependencies]
 chrono = "0.4"
