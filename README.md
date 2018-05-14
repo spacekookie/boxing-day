@@ -4,13 +4,13 @@ This crate adds the `unwrap()` and `unwrap_mut()` functions to the `Box<T>` type
 
 Add `boxing-day` to your `Cargo.toml`
 
-```
+```toml
 boxing-day = "0.1"
 ```
 
 Then try this code out.
 
-```
+```rust
 extern crate boxing_day;
 use boxing_day::Unwrappable;
 use std::fmt;
